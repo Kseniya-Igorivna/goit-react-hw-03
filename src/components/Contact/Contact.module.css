@@ -1,0 +1,27 @@
+.contact {
+  border: 2px solid violet;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.number {
+  font-style: italic;
+}
+
+.button {
+  padding: 5px 10px;
+  background-color: #434b82;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}

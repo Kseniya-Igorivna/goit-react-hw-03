@@ -1,0 +1,25 @@
+.form {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 2px solid rgba(154, 17, 154, 0.792);
+}
+
+.button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #586989;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
